@@ -10,6 +10,8 @@ int func() {
     return x;
 }
 
+// Main function.
+
 int main() {
     std::cout << "x:" << func() << ";" << std::endl;
     return 0;
