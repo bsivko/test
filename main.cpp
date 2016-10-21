@@ -11,6 +11,6 @@ int func() {
 }
 
 int main() {
-    std::cout << "x:" << func() << std::endl;
+    std::cout << "x:" << func() << ";" << std::endl;
     return 0;
 }
