@@ -1,6 +1,6 @@
 #include <iostream>
 
-// Comment.
+// Comment - simple calculation.
 
 int main() {
     
